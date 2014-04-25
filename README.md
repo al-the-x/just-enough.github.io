@@ -19,19 +19,23 @@
 * Just Enough jQuery: From "Hello, jQuery!" to Plugin Development
 * Just Enough Angular JS: From "Hello, Angular!" to Custom Directives
 
+
 * Just Enough PHP: From 0 to TDD
 * Just Enough Drupal: From "Hello, Drupal!" to Custom Site
 * Just Enough Wordpress: From "Hello, Wordpress!" to Themes
 * Just Enough Laravel: From "Hello, Laravel!" to Application
 * Just Enough APIs: From "What's an API?" to ReSTful Services with Slim PHP
 
+
 * Just Enough Python: From 0 to TDD
 * Just Enough Django: From "Hello, Django!" to Application
 * Just Enough APIs: From "What's an API?" to ReSTful Services with Bottle
 
+
 * Just Enough Ruby: From 0 to TDD
 * Just Enough Rails: From "Hello, Rails!" to Application
 * Just Enough APIs: From "What is an API?" to ReSTful Services with Rails / Sinatra
+
 
 * Just Enough Linux: From "Hello, Linux!" to Shell Scripting
 * Just Enough DevOps: Chef, Vagrant, Fabric, and THE CLOUD
