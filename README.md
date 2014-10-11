@@ -1,8 +1,8 @@
-## [Just Enough Academy](http://justenoughacademy.com/)
-
-> iustus satis doctrina invenit sapientiam >> just enough learning leads to wisdom
-
-A family of short, focused training seminars run by @al-the-x using Test-Driven Development (TDD) and Coding Dojos.
+---
+site:
+  title: "Just Enough Acacdemy"
+  subtitle: "iustus satis doctrina invenit sapientiam >> just enough learning leads to wisdom"
+---
 
 ### Free Seminars
 
@@ -12,6 +12,8 @@ A family of short, focused training seminars run by @al-the-x using Test-Driven 
 * Just Enough Linux -- What is Linux, where did it come from, and why should I care?
 
 ### Premium Seminars
+
+#### JavaScript for Fun and Profit
 
 * Just Enough JavaScript: From 0 to TDD
 * Just Enough jQuery: From "Hello, jQuery!" to Plugin Development
