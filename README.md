@@ -1,5 +1,6 @@
 ---
 permalink: index.html
+layout: default
 ---
 
 ## [Just Enough Academy](http://justenoughacademy.com/)
